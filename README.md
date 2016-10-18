@@ -1,2 +1,2 @@
 # hello-world
-Getting Used to with Git
+Getting Use to with Git
